@@ -1,0 +1,7 @@
+C:\Users\Liberty Fox User\Desktop\C#\Ch12\PoolPuzzle\PoolPuzzle\bin\Debug\PoolPuzzle.exe.config
+C:\Users\Liberty Fox User\Desktop\C#\Ch12\PoolPuzzle\PoolPuzzle\bin\Debug\PoolPuzzle.exe
+C:\Users\Liberty Fox User\Desktop\C#\Ch12\PoolPuzzle\PoolPuzzle\bin\Debug\PoolPuzzle.pdb
+C:\Users\Liberty Fox User\Desktop\C#\Ch12\PoolPuzzle\PoolPuzzle\obj\Debug\PoolPuzzle.csproj.AssemblyReference.cache
+C:\Users\Liberty Fox User\Desktop\C#\Ch12\PoolPuzzle\PoolPuzzle\obj\Debug\PoolPuzzle.csproj.CoreCompileInputs.cache
+C:\Users\Liberty Fox User\Desktop\C#\Ch12\PoolPuzzle\PoolPuzzle\obj\Debug\PoolPuzzle.exe
+C:\Users\Liberty Fox User\Desktop\C#\Ch12\PoolPuzzle\PoolPuzzle\obj\Debug\PoolPuzzle.pdb
